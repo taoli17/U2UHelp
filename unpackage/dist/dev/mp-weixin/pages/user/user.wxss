@@ -1,0 +1,14 @@
+
+.login-btn{
+	margin-top:60%;
+}
+.user-info{
+	padding: 20rpx;
+}
+.user-info>image{
+	width: 100rpx;
+	-webkit-border-radius: 100%;
+	        border-radius: 100%;
+	margin-right: 10rpx;
+}
+
